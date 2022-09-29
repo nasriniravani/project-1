@@ -1,43 +1,41 @@
 /* Place CSS styles here */
-/* Body */
-body {
-    background-color: rgb(218, 213, 239);
-  }
-  
-  h2{
+
+h2 {
     color: blue;
   }
   
-
-
-/* Style buttons */
+  .uglybutton {
+    color: orange;
+  }
+  
+  #container {
+    color: purple;
+  }
+  
   .button {
-   color: aqua;
-   background-color: rgb(87, 47, 230);
-   border-radius: 8px;
-   border: none;
-   cursor: pointer;
-   padding: 12px;
+    background-color: #3e299b;
+    color: #efefef;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+    padding: 12px;
   }
   
   .button:hover,
   .button:focus {
-    background-color: rgb(96, 225, 135);
-    }
+    background-color: #d3d136;
+  }
   
   .button:focus {
-  border: 1px solid #d3d136;
+    border: 1px solid #d3d136;
   }
   
   .button-small {
-    color: rgb(10, 9, 10);
-    background-color: rgb(162, 142, 234);
-    border-radius: 16px;
-    padding: 6px;
-   }
-
-   /* HEADER STYLES */
-.main-header {
+    font-size: 12px;
+  }
+  
+  /* HEADER STYLES */
+  .main-header {
     display: flex;
     justify-content: space-between;
   }
@@ -57,5 +55,3 @@ body {
     max-width: 600px;
     margin: 0 auto;
   }
-  Footer
-  © 2022 Git
