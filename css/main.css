@@ -21,18 +21,6 @@ h2 {
     padding: 12px;
   }
   
-  .button:hover,
-  .button:focus {
-    background-color: #d3d136;
-  }
-  
-  .button:focus {
-    border: 1px solid #d3d136;
-  }
-  
-  .button-small {
-    font-size: 12px;
-  }
   
   /* HEADER STYLES */
   .main-header {
