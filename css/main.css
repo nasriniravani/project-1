@@ -1,4 +1,7 @@
 /* Place CSS styles here */
+body {
+  background-color: rgb(218, 213, 239);
+}
 
 h2 {
     color: blue;
