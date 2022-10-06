@@ -5,6 +5,13 @@ body {
 
 h2 {
     color: blue;
+    background-color: #3e299b;
+    color: #efefef;
+    border-radius: 12px;
+    border: none;
+    cursor: pointer;
+    padding: 12px;
+  justify-content: center;
   }
   
   .uglybutton {
@@ -21,7 +28,7 @@ h2 {
     border-radius: 12px;
     border: none;
     cursor: pointer;
-    padding: 12px;
+    padding: 16px;
   justify-content: center;
   }
   
@@ -56,9 +63,7 @@ html {
 }
 
   /* START HOMEPAGE STYLES */
-  
   /* END HOMEPAGE STYLES */
-  
   /* START ABOUT STYLES */
   .about-wrapper {
   
