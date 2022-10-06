@@ -22,6 +22,7 @@ h2 {
     border: none;
     cursor: pointer;
     padding: 12px;
+  justify-content: center;
   }
   
   
@@ -40,6 +41,20 @@ h2 {
   border: 1px solid black;
 }
 
+.page-wrapper {
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+html {
+  line-height: 1.15;
+  -webkit-text-size-adjust: 100%;
+  font-size: larger;
+  font-size: 31px;
+  font-weight: bold;
+}
+
   /* START HOMEPAGE STYLES */
   
   /* END HOMEPAGE STYLES */
@@ -50,14 +65,16 @@ h2 {
   }
   .about-featured-items {
     display: flex;
+    justify-content: center;
+    margin-right: 8px  
   }
 
-  .about-featured-item {
-    margin-right: 4px
-  
-  }
 
-  .item-description {text-align: center;}
+  .item-description {
+    text-align: center;
+    font-size: 31px;
+    font-weight: bold;
+  }
 
 
   /* END ABOUT STYLES */
