@@ -32,7 +32,6 @@ h2 {
   justify-content: center;
   }
   
-  
   /* HEADER STYLES */
   .main-header {
     display: flex;
@@ -66,7 +65,6 @@ html {
   /* END HOMEPAGE STYLES */
   /* START ABOUT STYLES */
   .about-wrapper {
-  
   }
   .about-featured-items {
     display: flex;
@@ -74,16 +72,13 @@ html {
     margin-right: 8px  
   }
 
-
   .item-description {
     text-align: center;
     font-size: 31px;
     font-weight: bold;
   }
 
-
   /* END ABOUT STYLES */
-  
   .items {
     display: flex;
     max-width: 600px;
