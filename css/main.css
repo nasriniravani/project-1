@@ -22,6 +22,15 @@ h2 {
     color: purple;
   }
   
+  .first-heading {
+    background-color: brown;
+    color: whitesmoke;
+    text-align: center;
+    padding: 20px;
+    font-size: 20px;
+    font-family: "hwt-artz",sans-serif;
+}
+
   .button {
     background-color: #3e299b;
     color: #efefef;
