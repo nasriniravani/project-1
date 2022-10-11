@@ -56,13 +56,10 @@ h2 {
 html {
   line-height: 1.15;
   -webkit-text-size-adjust: 100%;
-  font-size: larger;
   font-size: 31px;
   font-weight: bold;
 }
 
-  /* START HOMEPAGE STYLES */
-  /* END HOMEPAGE STYLES */
   /* START ABOUT STYLES */
   .about-wrapper {
   }
